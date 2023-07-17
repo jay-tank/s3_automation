@@ -1,3 +1,3 @@
-UserName:s3_anqa_jay
-GroupName:s3_anqa
-FolderName:anqa
+UserName:s3_private_user
+GroupName:s3_private_group
+FolderName:s3_private_folder
