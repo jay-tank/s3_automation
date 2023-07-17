@@ -1,3 +1,0 @@
-UserName:test
-GroupName:test_gp
-FolderName:test_folder
