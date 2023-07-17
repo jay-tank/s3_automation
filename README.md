@@ -59,7 +59,7 @@ for more information follow the doc
 
 -- <b>cd s3_automation_private</b></span>, Update your bucket, user and group name in  <b></b>input.txt</span>, as well change the bucket and folder name in policy.json which is defined by with <b>$BUCKET_NAME</b></span> and <b>$FOLDER_NAME</b></span> variable.
 
--- <b>cmd</b></span> make run_private
+-- <b>cmd</b></span> : <b>make run_private</b></span>
 
 once this task will run, your data will store in <b>output.txt</b></span>
 
@@ -67,7 +67,7 @@ once this task will run, your data will store in <b>output.txt</b></span>
 
 -- <b>cd s3_automation_public</b></span>, Update your bucket, user and group name in  <b></b>input.txt</span>, as well change the bucket and folder name in policy.json which is defined by with <b>$BUCKET_NAME</b></span> and <b>$FOLDER_NAME</b></span> variable.
 
--- <b>cmd</b></span> make run_public
+-- <b>cmd</b></span> : <b>make run_public</b></span>
 
 once this task will run, your data will store in <b>output.txt</b></span>
 
