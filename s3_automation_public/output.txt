@@ -1,0 +1,4 @@
+
+UserName: s3_anqa_jay
+AccessKey: AKIAV7EIGDYCV6E2IAPN
+SecretKey: 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

@@ -1,0 +1,3 @@
+UserName:s3_private_user
+GroupName:s3_private_gp
+FolderName:s3_private_folder

@@ -55,9 +55,22 @@ for more information follow the doc
 
 #### 3. Run the script
 
--- Update your bucket, user and group name in  <b></b>input.txt</span>, as well change the bucket and folder name in policy.json which is defined by with <b>$BUCKET_NAME</b></span> and <b>$FOLDER_NAME</b></span>
+#### for Private Bucket
 
--- chmod +x (to all file.sh) and run ./all.sh, it will start running and you will get your output in output.txt
+-- <b>cd</b></span> s3_automation_private, Update your bucket, user and group name in  <b></b>input.txt</span>, as well change the bucket and folder name in policy.json which is defined by with <b>$BUCKET_NAME</b></span> and <b>$FOLDER_NAME</b></span> variable.
+
+-- <b>cmd</b></span> make run_private
+
+once this task will run, your data will store in <b>output.txt</b></span>
+
+#### for Public Bucket
+
+-- <b>cd</b></span> s3_automation_private, Update your bucket, user and group name in  <b></b>input.txt</span>, as well change the bucket and folder name in policy.json which is defined by with <b>$BUCKET_NAME</b></span> and <b>$FOLDER_NAME</b></span> variable.
+
+-- <b>cmd</b></span> make run_public
+
+once this task will run, your data will store in <b>output.txt</b></span>
+
 
 -------------------------------------------------------------------------------------------------------
 
