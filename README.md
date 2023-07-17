@@ -3,7 +3,7 @@
 [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-Cloud%20Storage-569A31?logo=amazon%20s3&logoColor=white)](https://aws.amazon.com/s3/)
 [![AWS IAM](https://img.shields.io/badge/AWS%20IAM-Access%20Management-FF9900?logo=amazon%20aws&logoColor=white)](https://aws.amazon.com/iam/)
 
--- Automate your Amazon S3 operations and manage access controls effortlessly with this S3 Automation repository. Utilizing the AWS SDK and IAM, this project enables seamless interaction with S3 buckets while enforcing secure permissions.
+-- Automate your Amazon S3 operations and manage access controls effortlessly with this S3 Automation repository. Utilizing the AWS and IAM, this project enables seamless interaction with S3 buckets while enforcing secure permissions.
 
 #### S3_Automation_for Dev and Staging Enviroment
 
